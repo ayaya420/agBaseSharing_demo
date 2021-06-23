@@ -1,0 +1,29 @@
+[
+    {
+        "fullname": "default",
+        "iata": "XX",
+        "icao": "XXX",
+        "handling_group": "XXX",
+        "freq": 131.0,
+        "rcu_ipaddr": "12.12.12.1",
+        "RX": "12.12.12.2"
+    },
+    {
+        "fullname": "Thai Airways",
+        "iata": "",
+        "icao": "THA",
+        "handling_group": "THA",
+        "freq": 131.25,
+        "rcu_ipaddr": "172.86.110.111",
+        "RX": "172.86.110.121"
+    },
+    {
+        "fullname": "All Nippon",
+        "iata": "",
+        "icao": "ANA",
+        "handling_group": "ANA",
+        "freq": 131.6,
+        "rcu_ipaddr": "172.86.110.112",
+        "RX": "172.86.110.122"
+    }
+]

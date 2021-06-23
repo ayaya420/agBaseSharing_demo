@@ -1,0 +1,9 @@
+Do not fotget add all MIB in C:/windows/systems32
+
+snmpwalk -Os -c public -v 1 192.168.1.102 
+
+ffFreq
+snmpget -v1 -c public 192.168.1.102 1.3.6.1.4.1.2566.127.2.2.1.1.6.5.0
+
+change ffFreq
+snmpset -v1 -c public 192.168.1.102 1.3.6.1.4.1.2566.127.2.2.1.1.6.5.0 u 131600000

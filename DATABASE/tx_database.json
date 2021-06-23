@@ -1,0 +1,15 @@
+[
+    {
+        "tx_id": 1.0,
+        "tx_name": "TX_1",
+        "tx_ipaddr": "172.86.110.101",
+        "tx_sts": "AVA",
+        "tx_usedBy": "",
+        "tx_ALCode3": "",
+        "tx_ALname": "",
+        "tx_Freq": 131.25,
+        "last_used": "",
+        "rcu_ipaddr": "",
+        "tx_weigth_score": 4.0
+    }
+]
